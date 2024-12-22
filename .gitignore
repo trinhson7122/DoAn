@@ -1,0 +1,7 @@
+/vendor
+composer.lock
+.env
+/storage/debugbar
+/storage/framework
+/storage/logs
+/bootstrap/cache
